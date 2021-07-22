@@ -1,0 +1,29 @@
+.navbar-option {
+  text-align: right;
+}
+
+.container {
+  margin-bottom: 50px;
+}
+
+.buy-now-button {
+  padding: 10px 30px;
+  background-image: linear-gradient(45deg, rgb(24, 24, 24) 0%, black 100%);
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+}
+
+.col-md-5 {
+  margin: 10px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
